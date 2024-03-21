@@ -9,7 +9,7 @@ class Itemmascota extends StatelessWidget {
       padding: const EdgeInsets.all(15),
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
-          color: const Color(0x9f498777),
+          color: const Color(0x9f4b7c71),
           boxShadow: [
             BoxShadow(
               offset: const Offset(0, 5),
